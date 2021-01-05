@@ -1,7 +1,7 @@
-olsen
+olsen (deprecated)
 =====
 
-Olsen is a node app that takes asynchronous responsive screenshots of various designated sites at defined resolutions.
+Olsen is a node app that takes asynchronous responsive screenshots of various designated sites at defined resolutions.  It is very much out of date and should just be used as a proof of concept for an idea.
 
 ## Installation
 
